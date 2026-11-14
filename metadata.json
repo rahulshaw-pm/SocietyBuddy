@@ -1,0 +1,6 @@
+{
+  "name": "SocietyBuddy",
+  "description": "Interactive residential community and apartment society management app with gate passes, maintenance billing, helpdesk, amenity bookings, and local browser persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
